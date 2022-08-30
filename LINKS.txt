@@ -1,0 +1,46 @@
+COMISIÓN 22807
+
+Bienvenid@s  a REACT JS !!!
+
+Me presento, soy el Profesor Gabriel Muñoz y juntos recorreremos la cursada de React JS.
+Es un placer enorme acompañar en este nuevo desafío y aprendizaje, espero que puedan disfrutarlo tanto como yo.
+L@s invito a aprender y crecer profesionalmente como programador@s y futur@s profesionales.
+Se que lo nuevo puede resultar intimidante, pero yo estaré ahí para acompañar, así que adelante!!!
+Tenemos una aventura nueva en camino..
+En nuestra primera clase hablaremos en detalle de la cursada y como son las pautas de trabajo, no se preocupen, tendrán todo a su alcance.
+Vayan practicando y leyendo sobre HTML, CSS y JS..
+
+Les dejo los links a todos los accesos importantes:
+
+Link de clases:
+Martes y Jueves 19 a 20.30
+https://meet.google.com/zsk-kwdm-idx
+
+Formulario de Asistencia:
+https://forms.gle/UF9FSRvZb9ztjawP7
+
+Link clases grabadas:
+https://www.youtube.com/playlist?list=PL9FDV61UoWvLWkuc4MpMHgeV34FQcmZOv
+
+Link drive:
+https://drive.google.com/drive/folders/1Nd6ECTTJIn8ilBPB8baxtcUNiyg4pRTq?usp=sharing
+
+Link aula virtual:
+https://aulasvirtuales.bue.edu.ar/login/index.php
+
+Link Discord:
+https://discord.gg/kUgCmWdbPj
+
+Link github:
+https://github.com/DevJumpProf/comision22807.git
+
+Mails:
+Profesor Gabriel: gabriel.munoz@bue.edu.ar
+Tutor Germán: germanezequiel.perez@bue.edu.ar (temas administrativos)
+
+Los invito a seguirnos en las redes sociales.
+Linkedin:https://www.linkedin.com/in/gabriel-mu%C3%B1oz-b81358198/
+Instagram: https://www.instagram.com/programacion_a_la_gorra/
+
+Lxs  espero!!!
+Saludos😊
