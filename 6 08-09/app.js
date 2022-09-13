@@ -83,8 +83,8 @@ document.write(resultados)
 
 // tarea
 /* operadores de comparacion y su funcionalidad
-&&
-||
+&& and
+|| or
 !=
 !==
  */
