@@ -204,7 +204,7 @@ esVocal("m"); */
  */
 
 
-/* const esVocal = letra => {
+ const esVocal = letra => {
 if (letra.length!=1){
   document.write ("Dato incorrecto ingresaste mas de un caracter")
 } else if (letra=="a" ||letra=="e" ||letra=="i" ||letra=="o" ||letra=="u" ){
@@ -213,4 +213,4 @@ document.write (`Efectivamente la letra ${letra} es vocal XD`)
   document.write (`ingresaste ${letra}... no es vocal :(`)
 }
 };
-esVocal(prompt ("escribe una letra").toLowerCase()); */
+esVocal(prompt ("escribe una letra").toLowerCase()); 
