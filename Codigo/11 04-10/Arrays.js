@@ -7,7 +7,8 @@ const arrayBidimencional = [1,2,3,4,5,6,[7,8]]
 const Dev = "Codo a Codo"
 
 // metodos
-
+/* .map() : Permite recorre el array y modificar los elements presentes en él, retornando un nuevo array con la misma longitud que el original.
+.map */
 //.map
 /* const nuevoArray = numeros.map (elements  => elements * 10 ); 
 console.log(nuevoArray) */
