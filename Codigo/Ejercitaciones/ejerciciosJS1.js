@@ -1,8 +1,3 @@
-//funcioN
-//pedimos los datos a la persona.(nombre - edad)
-// indicar si la pérsona es mayor de 18 puede pasar
-// si la persona llego antes de las 2 no paga entrada
-// si la persona llego despues de las 2 paga en pesos la suma de las letras de su nombre + su edad
 
 // reemplaza `null` por la respuesta
 
@@ -24,14 +19,16 @@ const nuevaMultiplicacion = null * 4 === 40 ;
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
 
+const nuevoModulo2 = 24 % 3 === null;
 
+const nuevoModulo3 = 27 % 3 === null;
 
-function devolverString(str) {
-  // "Return" la string provista: str
+function devolverString(string) {
+  // "document.write" la string provista: string
   // Tu código:
-
+document.write(string)
 }
-
+devolverString("Hola Como estas")
 
 
 function suma(x, y) {
@@ -48,13 +45,13 @@ function resta(x, y) {
 }
 
 function multiplica(x, y) {
-  // Multiplica "x" por "y" y devuelve el valor
+  // Multiplica "x" por "y" y devuelve el valor *
   // Tu código:
 
 }
 
 function divide(x, y) {
-  // Divide "x" entre "y" y devuelve el valor
+  // Divide "x" entre "y" y devuelve el valor /
   // Tu código:
 
 }
@@ -64,13 +61,6 @@ function sonIguales(x, y) {
   // De lo contrario, devuelve "false"
   // Tu código:utilizar if y else
 
-
-}
-
-function tienenMismaLongitud(str1, str2) {
-  // Devuelve "true" si las dos strings tienen la misma longitud
-  // De lo contrario, devuelve "false"
-  // Tu código:
 
 }
 
@@ -128,30 +118,31 @@ function elevar(num, exponent) {
 
 }
 
-function redondearNumero(num) {
-  // Redondea "num" al entero más próximo y devuélvelo
-  // Tu código:
-
-}
-
-function redondearHaciaArriba(num) {
-  // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
-  // Tu código:
-
-}
-
-function numeroRandom() {
-  //Generar un número al azar entre 0 y 1 y devolverlo
-  //Pista: investigá qué hace el método Math.random()
-
-}
-
 function esPositivo(numero) {
   //La función va a recibir un entero. Devuelve como resultado una cadena de texto que indica si el número es positivo o negativo. 
   //Si el número es positivo, devolver ---> "Es positivo"
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
+/*   if (){
 
+  }else if () {
+
+  }else {
+    
+  } */
+
+/*   switch (numero) {
+    case ("condicion"): 
+    document.write ("es positivo") 
+      break;
+      case ("condicion"): 
+      document.write ("es Negativo") 
+      break;
+    default:
+      document.write (false) 
+      break;
+  }
+ */
 }
 
 function agregarSimboloExclamacion(str) {
@@ -175,39 +166,18 @@ function obtenerSaludo(nombre) {
 
 }
 
-function obtenerAreaRectangulo(alto, ancho) {
-  // Retornar el area de un cuadrado teniendo su altura y ancho
-  // Tu código:
-
-}
-
-function retornarPerimetro(lado){
-  //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
-  //Escribe tu código aquí
-
-}
-
-function areaDelTriangulo(base, altura){
-  //Desarrolle una función que calcule el área de un triángulo.
-  //Escribe tu código aquí
-
-
-}
-
-function deEuroAdolar(euro){
-  //Supongamos que 1 euro equivale a 1.20 dólares. 
-  //Escribe un programa que pida al usuario un número de euros y calcule el cambio en dólares.
-  //Escribe tu código aquí
-
-}
-
-
 function esVocal(letra){
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
     //si ingresa una consonante muestre en pantalla dato incorrecto
   //Escribe tu código aquí
-
+/*  ||   or  */
 
 }
+
+
+
+// declarar un array con 5 datos
+
+// visualizar el tercer dato de ese array
