@@ -324,6 +324,7 @@ Para crear un estado en React usamos el hook useState:
 import { useState } from 'react'
 
 function Counter() {
+  
   const [count, setCount] = useState(0)
 
   return (
